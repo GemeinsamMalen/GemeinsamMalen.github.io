@@ -60,5 +60,4 @@ Sofern sich aus den sonstigen Informationen dieser Erklärung über spezifische 
 Bereitgestellt und geprüft durch:
 
 Sandro Güttner
-Haupstr. 12
-86447 Aindling
+
