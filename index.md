@@ -58,6 +58,7 @@ Bei der Verarbeitung von personenbezogenen Daten zum Zwecke der Direktwerbung au
 Sofern sich aus den sonstigen Informationen dieser Erklärung über spezifische Verarbeitungssituationen nichts anderes ergibt, werden gespeicherte personenbezogene Daten im Übrigen dann gelöscht, wenn sie für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig sind.
 
 Bereitgestellt und geprüft durch:
-IT-Recht Kanzlei München
 
-Schliessen
+Sandro Güttner
+Haupstr. 12
+86447 Aindling
