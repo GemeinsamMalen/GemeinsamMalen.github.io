@@ -59,5 +59,9 @@ Sofern sich aus den sonstigen Informationen dieser Erklärung über spezifische 
 
 Bereitgestellt und geprüft durch:
 
+Pinterest-API und Kontoverknüpfung
+Das Tool dient dazu, Pins für den Pinterest-Auftritt „GemeinsamMalen“ zu erstellen und zu veröffentlichen. Die Verbindung zu Pinterest erfolgt über Pinterest OAuth. Dabei verarbeitet das Tool nur die Daten und Berechtigungen, die für die freigegebenen Funktionen erforderlich sind. Pinterest-Passwörter werden vom Tool nicht abgefragt. Zugriffstoken werden nur auf der API gespeichert und werden alle 5 Jahre gelöscht. Empfänger der über die API übermittelten Pin-Inhalte ist Pinterest.
+
+
 Sandro Güttner
 
