@@ -1,2 +1,0 @@
-# GemeinsamMalen.github.io
-Datenschutz
